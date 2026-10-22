@@ -19,6 +19,8 @@
 #define HREF_GPIO_NUM     27
 #define PCLK_GPIO_NUM     13
 
+// ^ i did use ai to help we w/ ts i have lowkenuinely never defined variables like this b4 ^
+
 const int MPU_addr = 0x68; 
 
 const int motorPins[4] = {1, 2, 3, 4};
