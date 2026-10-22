@@ -27,3 +27,28 @@ The PCB was made in KiCAD! It has:
 
 <img width="1278" height="838" alt="Screenshot 2026-10-21 213401" src="https://github.com/user-attachments/assets/f34e1ffd-8f9b-4f30-b7cb-3c990d3a8bc8" />
 <img width="1269" height="795" alt="Screenshot 2026-10-21 213337" src="https://github.com/user-attachments/assets/de72935e-6bf2-40f0-8380-3805ae98684b" />
+
+## CAD
+
+The CAD was designed exclusively in Onshape. The 2 parts fit together with 4 M3 screws and nuts, it doesn't require any heatset inserts, you screw directly into the PLA.
+
+There are cut-outs in each piece so that wires can fit through. This is a pusher drone, the motors are press fit and the propellers face towards the ground.
+
+<img width="1066" height="674" alt="Screenshot 2026-10-22 000128" src="https://github.com/user-attachments/assets/a927618d-fd26-4a45-8d06-20a6b44b2faf" />
+
+## Assembly  
+
+Use the schematic diagram on Kicanvas to solder one side of the wires to the board before assembly. Then place the board, mount it using the screws and nuts and take the wires to the motors and solder the other side there. 
+
+## Firmware
+
+We move by slowing down certain motors and speeding up others, this causes it to lean and tilt towards the direction its meant to be going, and begins to accelerate. 
+In the final firmware, it will be controlled through bluetooth on a computer or phone.
+
+<img width="838" height="409" alt="image" src="https://github.com/user-attachments/assets/8c2c6632-1c58-45e9-a36e-225129330a90" />
+
+
+
+
+
+
