@@ -1,5 +1,7 @@
 # Flightime - Quadcopter
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FRishitJain-dev%2FFlightime%2Ftree%2Fmain%2FPCB)
+
+
 <img width="866" height="550" alt="Screenshot 2026-10-22 000128" src="https://github.com/user-attachments/assets/08b853c2-1928-4594-a8a6-b680967e18e0" />
 
 Flightime is a custom designed drone with a PLA Aero frame, 4 8520 brushed motors, and a PCB flight controller with a OV2640 camera mounted on the XIAO ESP32 S3 SENSE
@@ -50,6 +52,7 @@ In the final firmware, it will be controlled through bluetooth on a computer or 
 # Renders
 
 Here are some renders I made in Onshape!
+
 <img width="878" height="532" alt="Screenshot 2026-11-06 172638" src="https://github.com/user-attachments/assets/3d3acbd4-6d93-4976-97e7-1cab815b3d48" />
 <img width="896" height="589" alt="Screenshot 2026-11-06 172427" src="https://github.com/user-attachments/assets/30896d02-1d4c-4472-b66b-ad54c098056f" />
 <img width="849" height="588" alt="Screenshot 2026-11-06 172505" src="https://github.com/user-attachments/assets/1008f293-6d70-452e-b077-4e99054d1e4b" />
