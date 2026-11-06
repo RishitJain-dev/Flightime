@@ -47,8 +47,14 @@ In the final firmware, it will be controlled through bluetooth on a computer or 
 
 <img width="838" height="409" alt="image" src="https://github.com/user-attachments/assets/8c2c6632-1c58-45e9-a36e-225129330a90" />
 
+# Renders
 
-
+Here are some renders I made in Onshape!
+<img width="878" height="532" alt="Screenshot 2026-11-06 172638" src="https://github.com/user-attachments/assets/3d3acbd4-6d93-4976-97e7-1cab815b3d48" />
+<img width="896" height="589" alt="Screenshot 2026-11-06 172427" src="https://github.com/user-attachments/assets/30896d02-1d4c-4472-b66b-ad54c098056f" />
+<img width="849" height="588" alt="Screenshot 2026-11-06 172505" src="https://github.com/user-attachments/assets/1008f293-6d70-452e-b077-4e99054d1e4b" />
+<img width="841" height="587" alt="Screenshot 2026-11-06 172556" src="https://github.com/user-attachments/assets/51261e05-4e63-47ff-845b-0fae8d545688" />
+<img width="811" height="562" alt="Screenshot 2026-11-06 172616" src="https://github.com/user-attachments/assets/722c6437-e17f-4e17-ba13-15cff7dd641b" />
 
 
 
